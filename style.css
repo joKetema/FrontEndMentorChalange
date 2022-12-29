@@ -109,4 +109,11 @@ ul{
   font-size:0.9rem;
   opacity:0.7;
 }
+@media (max-width:601px)
+{
+  #card,#bottom-left-section,#bottom-right-section{
+    width:100%;
+    height:auto;
+  }
+}
 
